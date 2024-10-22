@@ -1,3 +1,9 @@
+# UCB EE120: Signal and Systems
+- I studied the course Signals and Systems in school, using Oppenheim's textbook, but I am confused about this course. 
+- In this repository, I uploaded the lab I completed for EE120 and some of my notes.
+- The resources of EE120 have been blocked in recent times.
+- I use the resources of https://github.com/dominiccarrano/ee-120-labs?tab=readme-ov-file and flyingpig
+
 # ee-120-labs
 Python virtual labs implemented via the Jupyter Notebook developed for <a href="https://www2.eecs.berkeley.edu/Courses/EE120/">*EE 120: Signals and Systems*</a> at UC Berkeley. 
 
